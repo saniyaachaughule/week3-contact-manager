@@ -87,7 +87,6 @@ python contacts_manager.py
 
 
 # Code Structure
-
 ## contacts_manager.py
 
 Main Python file containing:
@@ -195,6 +194,7 @@ Display All Contacts
 
 ### Screenshot 5
 GitHub Repository
+<img width="1919" height="1091" alt="Screenshot 2026-06-29 145727" src="https://github.com/user-attachments/assets/448023ff-abe7-4ca2-964c-d760f767db74" />
 
 
 # What I Learned
@@ -255,9 +255,6 @@ The Contact Management System successfully meets the project requirements by imp
 
 
 ## GitHub Repository
-
-Replace this with your repository link after uploading:
-
 ```
 https://github.com/saniyaachaughule/week3-contact-manager
 ```
