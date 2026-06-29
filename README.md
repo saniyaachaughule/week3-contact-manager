@@ -10,7 +10,6 @@
 
 **Project:** Contact Management System
 
----
 
 # Project Description
 
@@ -18,7 +17,6 @@ The Contact Management System is a Python application that helps users store and
 
 This project demonstrates the use of Python functions, dictionaries, loops, conditionals, file handling, regular expressions, and input validation.
 
----
 
 # Project Objectives
 
@@ -30,7 +28,6 @@ This project demonstrates the use of Python functions, dictionaries, loops, cond
 * Build a menu-driven Python application.
 * Practice modular programming using functions.
 
----
 
 # Technologies Used
 
@@ -39,7 +36,6 @@ This project demonstrates the use of Python functions, dictionaries, loops, cond
 * JSON
 * CSV
 
----
 
 # Features
 
@@ -56,7 +52,6 @@ This project demonstrates the use of Python functions, dictionaries, loops, cond
 * ✅ Contact Statistics
 * ✅ Menu-Driven Interface
 
----
 
 # Project Structure
 
@@ -69,8 +64,6 @@ week3-contact-manager/
 │── requirements.txt
 └── .gitignore
 ```
-
----
 
 # How to Run
 
@@ -92,7 +85,6 @@ python contacts_manager.py
 
 5. Select an option from the menu and follow the instructions.
 
----
 
 # Code Structure
 
@@ -114,7 +106,6 @@ Main Python file containing:
 * Menu Function
 * Main Function
 
----
 
 # Technical Requirements Implemented
 
@@ -131,7 +122,6 @@ Main Python file containing:
 | Menu Driven Program | ✅      |
 | Modular Programming | ✅      |
 
----
 
 # Sample Output
 
@@ -162,7 +152,6 @@ Enter Group: Friends
 Contact Added Successfully.
 ```
 
----
 
 # Contact Statistics Example
 
@@ -182,33 +171,31 @@ Work           : 1
 Other          : 1
 ```
 
----
 
 # Screenshots
 
 Add the following screenshots:
 
 ### Screenshot 1
-
 Program Code in VS Code
+<img width="1919" height="1139" alt="Screenshot 2026-06-29 143326" src="https://github.com/user-attachments/assets/6ca1fdb4-d173-4b9e-b597-9b9372e0d62f" />
+
 
 ### Screenshot 2
-
 Program Execution
+<img width="1919" height="1144" alt="Screenshot 2026-06-29 143234" src="https://github.com/user-attachments/assets/2cc51112-40da-41f0-8003-c880dd2f2d72" />
 
 ### Screenshot 3
-
 Search Contact Feature
+<img width="1916" height="978" alt="image" src="https://github.com/user-attachments/assets/09f04cbb-e508-4709-89ec-5331dec25e6b" />
 
 ### Screenshot 4
-
 Display All Contacts
+<img width="1876" height="897" alt="Screenshot 2026-06-29 145349" src="https://github.com/user-attachments/assets/8dd606a7-7c19-4584-a5cc-736ceb34fa4c" />
 
 ### Screenshot 5
-
 GitHub Repository
 
----
 
 # What I Learned
 
@@ -223,7 +210,6 @@ GitHub Repository
 * Menu Driven Applications
 * Problem Solving
 
----
 
 # Challenges & Solutions
 
@@ -235,7 +221,6 @@ Validating phone numbers entered by users.
 
 Used a separate validation function to ensure phone numbers contain exactly 10 digits.
 
----
 
 ### Challenge 2
 
@@ -245,7 +230,6 @@ Saving contact data permanently.
 
 Used the JSON module to save and load contact information automatically.
 
----
 
 ### Challenge 3
 
@@ -255,7 +239,6 @@ Organizing the program.
 
 Separated the program into multiple functions and used a `main()` function to improve project structure.
 
----
 
 # Future Improvements
 
@@ -265,13 +248,11 @@ Separated the program into multiple functions and used a `main()` function to im
 * Add contact import from CSV.
 * Build a graphical user interface (GUI) using Tkinter.
 
----
 
 # Conclusion
 
 The Contact Management System successfully meets the project requirements by implementing CRUD operations, input validation, JSON and CSV file handling, and a modular program structure. This project strengthened my understanding of Python programming, data management, and software development best practices.
 
----
 
 ## GitHub Repository
 
