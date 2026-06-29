@@ -159,15 +159,15 @@ CONTACT STATISTICS
 
 ------------------------------
 
-Total Contacts : 5
+Total Contacts : 2
 
-Friends        : 2
+Friends        : 1
 
-Family         : 1
+Family         : 0
 
 Work           : 1
 
-Other          : 1
+Other          : 0
 ```
 
 
